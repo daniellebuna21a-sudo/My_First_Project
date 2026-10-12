@@ -1,13 +1,12 @@
 # My_First_Project
-It's about my work on ai automation
+It's about my work on AI automation
 
 # Automated Lead Enrichment 
 
 An AI-powered automation built with Zapier that captures new leads, enriches them with company data from Apollo, scores them by priority, and automatically notifies the sales team and follows up with the client. It replaces manual lead research with a fully automated workflow.
 
 ##  Workflow Overview
-![Zap workflow](<img width="1834" height="810" alt="Project #3 Lead Enrichment" src="https://github.com/user-attachments/assets/420104f8-2e7b-4504-bab8-ff2114ee8671" />
-/zap-workflow.png)
+(<img width="1834" height="810" alt="Project #3 Lead Enrichment" src="https://github.com/user-attachments/assets/1d1f16f8-6148-4e27-98f2-e9d6f56ac453" />/)
 
 ##  Features
 - **Instant lead capture**: new leads are received through a webhook.
