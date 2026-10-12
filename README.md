@@ -1,5 +1,4 @@
 # My_First_Project
-It's about my work on AI automation
 
 # Automated Lead Enrichment 
 
