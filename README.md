@@ -43,7 +43,7 @@ An AI-powered automation built with Zapier that captures new leads, enriches the
 | 11 | Gmail | Send notification to the sales team |
 
 ##  Tools Used
-![Zapier](https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white)[](https://zapier.com/app/login?next=%2Feditor%2F374971009%2Fdraft%2F374971009%2Ffields&redirect_cause=auth-required))
+![Zapier](https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white)[](https://zapier.com/app/login?next=%2Feditor%2F374971009%2Fdraft%2F374971009%2Ffields&redirect_cause=auth-required)
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)[](https://docs.google.com/spreadsheets/u/0/)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)[](https://slack.com/)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)[](https://mail.google.com/mail/u/0/)
